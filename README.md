@@ -32,12 +32,12 @@ With over a decade of experience in enterprise software development, I specializ
 
 ### 🚀 Featured Projects
 
-[![it-faker](https://github-readme-stats.vercel.app/api/pin/?username=dawit-io&repo=it-faker&theme=radical)](https://github.com/dawit-io/it-faker)
-> A TypeScript library for generating fake Italian data - addresses, VAT numbers, fiscal codes, and more. Perfect for testing and development. [Check the documentation](https://dawit-io.github.io/it-faker/)
-
-### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-io&layout=compact&theme=radical)
-
+#### [it-faker](https://github.com/dawit-io/it-faker)
+A TypeScript library for generating fake Italian data - addresses, VAT numbers, fiscal codes, and more. Perfect for testing and development.
+- 📚 [Documentation](https://dawit-io.github.io/it-faker/)
+- 🛠️ Built with TypeScript
+- 📦 Available as NPM package
+  
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dawit-abate-woldeamanuel)
 - 📧 [Email](mailto:dawit@gojodigital.com)
