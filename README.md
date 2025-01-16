@@ -34,7 +34,7 @@ With over a decade of experience in enterprise software development, I specializ
 
 #### [it-faker](https://github.com/dawit-io/it-faker)
 A TypeScript library for generating fake Italian data - addresses, VAT numbers, fiscal codes, and more. Perfect for testing and development.
-- 📚 [Documentation](https://dawit-io.github.io/it-faker/)
+- 📚 [Documentation](https://it-faker.gojodigital.com)
 - 🛠️ Built with TypeScript
 - 📦 Available as NPM package
   
