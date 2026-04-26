@@ -41,7 +41,6 @@ A TypeScript library for generating fake Italian data - addresses, VAT numbers, 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dawit-abate-woldeamanuel)
 - 📧 [Email](mailto:dawit@gojodigital.com)
-- 🌐 [Personal Website]([https://gojodigital.com](https://gojodigital.com/)
 
 ---
 ⚡ *"Building robust, scalable solutions with passion and precision"*
